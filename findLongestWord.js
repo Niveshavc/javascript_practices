@@ -1,5 +1,5 @@
-
 function longest(str){
+    //split give an splited array based on space' '?
     let store= str.split(' ')
     let longe=""
     
